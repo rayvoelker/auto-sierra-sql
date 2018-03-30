@@ -6,7 +6,7 @@ This is an example of creating an automation for a query into the sierra databas
 ## install instructions
 * install python3 and pip3 from your distribution's package manager ```sudo apt-get install python3 python3-pip3```
 * install virtualenv from pip3 ```sudo pip3 install virtualenv --upgrade```
-* clone this repo ```git clone https://github.com/rayvoelker/sierra_barcode_api.git```
+* clone this repo ```git clone https://github.com/rayvoelker/auto-sierra-sql.git```
 * move to the repo dir ```cd sierra_barcode_api/```
 * create the virtualenv ```virtualenv env```
 * enable virtualenv ```source env/bin/activate```
